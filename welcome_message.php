@@ -7,7 +7,7 @@
 
 <body>
     <h1 align="center">Heading 1</h1>
-    <h2>Hello Matimon</h2>
+    <h2 align="center">Hello Matimon</h2>
     <h3>Heading 3</h3>
     <h4>Heading 4</h4>
     <h5>Heading 5</h5>
